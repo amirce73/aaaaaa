@@ -132,7 +132,7 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 const slide1 = document.getElementById('slide1');
-const originalImgSrc = "/assets/images/PVZ4.png";
+const originalImgSrc = "assets/images/PVZ4.png";
 const videoSrc = "/freelancer-free-lite/assets/images/pvz4.mp4";
 const captionText = "PVZ4";
 
@@ -178,5 +178,6 @@ $('.footer-scroll').on('click', function(e) {
         }, 1500); // سرعت 1.5 ثانیه
     }
 });
+
 
 
